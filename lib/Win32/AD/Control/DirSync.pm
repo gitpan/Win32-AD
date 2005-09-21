@@ -12,7 +12,7 @@ use Win32::AD::Constant qw(LDAP_CONTROL_DIRSYNC);
 use vars qw(@ISA $VERSION);
 
 @ISA = qw(Net::LDAP::Control);
-$VERSION = "0.01";
+$VERSION = "0.02";
 
 
 use Convert::ASN1;

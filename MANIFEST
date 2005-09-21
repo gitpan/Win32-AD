@@ -1,0 +1,5 @@
+lib/Win32/AD/Constant.pm
+lib/Win32/AD/Control/DirSync.pm
+Makefile.PL
+MANIFEST
+README

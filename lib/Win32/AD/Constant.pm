@@ -6,7 +6,7 @@ use strict;
 
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 use constant LDAP_CONTROL_DIRSYNC		=> '1.2.840.113556.1.4.841';
 
